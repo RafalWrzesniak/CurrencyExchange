@@ -1,5 +1,7 @@
 # CurrencyExchange
 
+### Pliki dockerowe oraz .jar dostępne w zakładce Releases
+
 ### Dostępne wywołania:
 #### - Pokazuje wszystkie dostęne waluty wraz z aktualnym kursem (dostępne są wszystkie udostęnione przez api NBP):
 curl localhost:8080/currencies
